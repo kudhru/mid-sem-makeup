@@ -1,0 +1,7 @@
+**Interviewer:** Hi Ananya, could you tell me about your experience with AI tools in your studies?
+
+**Ananya:** Sure! I'm a second-year biology student. I've recently started using AI tools like Quizlet and Duolingo to help with my studies. They offer interactive exercises that make memorizing complex biological terms and concepts much easier. For example, the flashcards and quizzes adapt to what I know and what I need to focus on, which is really helpful. It's made studying more engaging for me, and I feel like I'm retaining information better. Also, I've tried using AI-based tutoring apps that explain difficult topics in simpler terms, which is great when I can't reach my professors.
+
+**Interviewer:** That's interesting. Have you faced any challenges while using these AI tools?
+
+**Ananya:** Well, sometimes the AI doesn't understand the specific nuances of what I'm studying, especially when it comes to advanced topics. The explanations can be too simplistic or not entirely accurate. Also, I worry that relying too much on these tools might affect my critical thinking skills. I find myself looking for quick answers rather than trying to understand the material deeply. But overall, I think they are a useful supplement to traditional studying methods, as long as I'm mindful of their limitations.

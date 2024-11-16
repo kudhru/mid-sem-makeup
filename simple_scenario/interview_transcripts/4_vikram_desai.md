@@ -1,0 +1,7 @@
+**Interviewer:** Vikram, what's your experience with AI tools in your workload?
+
+**Vikram:** I'm relatively new to using AI tools. I teach large introductory courses, and grading can be overwhelming. I've started using automated grading software for multiple-choice tests and even some written assignments. It has definitely saved time, but I'm concerned about its accuracy, especially with subjective responses. I still feel the need to double-check everything to ensure fairness. Additionally, setting up these tools initially took more time than expected, and without proper training, it was a bit frustrating. I also worry that students might feel neglected if they think a machine is grading their work.
+
+**Interviewer:** Do you see potential benefits in continuing to use AI tools?
+
+**Vikram:** Yes, I think with better training and more reliable tools, AI could significantly reduce the administrative burden. It could free up time for me to focus on curriculum development and spending more time interacting with students. But we need institutional support to provide training and ensure we have access to effective AI solutions. I believe a balanced approach, where AI handles routine tasks and instructors focus on teaching, could be very effective.

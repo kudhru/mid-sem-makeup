@@ -1,0 +1,7 @@
+**Interviewer:** Sneha, as a teaching assistant, how do you use AI tools?
+
+**Sneha:** I use AI extensively for grading assignments and providing instant feedback to students. Tools like Grammarly help students improve their writing by pointing out grammar and style issues. I also use AI-driven platforms that can check code submissions for programming classes, highlighting errors and suggesting corrections. This not only saves me time but also helps students learn faster because they get immediate feedback. Additionally, I use AI to analyze class performance data, which helps the instructor and me identify topics that students are struggling with, so we can address them in upcoming sessions.
+
+**Interviewer:** Have you encountered any challenges with these tools?
+
+**Sneha:** Sometimes the AI isn't perfect. For example, it might not catch more subtle errors in code logic or understand the context in essays. So I still need to manually review submissions to ensure accuracy. Also, some students feel that AI feedback is impersonal, so I try to balance it by providing personalized comments where necessary. There's also a learning curve in understanding how to effectively use these tools, both for me and the students.
